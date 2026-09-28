@@ -1,0 +1,6 @@
+{
+  "name": "ClosetLoop",
+  "description": "Community-based peer-to-peer short-term rental and borrowing marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
